@@ -71,8 +71,8 @@ if __name__ == '__main__':
             llist2_item = int(input())
             llist2.insert_node(llist2_item)
             
-        ptr1 = llist1.head;
-        ptr2 = llist2.head;
+        ptr1 = llist1.head
+        ptr2 = llist2.head
 
         for i in range(llist1_count):
             if i < index:
