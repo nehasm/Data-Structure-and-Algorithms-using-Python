@@ -1,17 +1,17 @@
 from array import array
 
 n, n_queries = map(int, input().split())
-data = array('L', map(int, input().split()))
-assert len(data) == n
+data_array = array('L', map(int, input().split()))
+assert len(data_array) == n
 for m in range(n_queries):
     t, i, j = map(int, input().split())
     if t == 1:
-        aux1 = i-1
-        aux2 = j - aux1
-        data[:aux2], data[aux2:j] = data[aux1:j], data[:aux1]
+        a1 = i-1
+        a2 = j - a1
+        data_array[:a2], data_array[a2:j] = data_array[a1:j], data_array[:a1]
     else:
-        aux1 = i-1
-        aux2 = aux1 + n - j
-        data[aux1:aux2], data[aux2:] = data[j:], data[aux1:j]
-print(abs(data[0] - data[-1]))
-print(*data)
+        a1 = i-1
+        a2 = a1 + n - j
+        data_array[a1:a2], data_array[a2:] = data_array[j:], data_array[a1:j]
+print(abs(data_array[0] - data_array[-1]))
+print(*data_array)
