@@ -35,6 +35,7 @@ if __name__=="__main__":
     print(stack.size())
     print(stack.peek())
     stack.pop()
+    stack.pop()
     print(stack.size())
     print(stack.peek())
     print(stack.isempty())
