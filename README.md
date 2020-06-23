@@ -18,7 +18,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   </tr>
   <tr>
     <td>Array</td>
-    <td><a href="'https://www.hackerrank.com/challenges/2d-array/problem'">2D Array-DS</a></td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
     <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
   </tr>
 </table>
