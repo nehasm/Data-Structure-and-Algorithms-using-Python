@@ -1,4 +1,10 @@
-#reverse list from middle and swapping to parts
+import math
+import os
+import random
+import re
+import sys
+
+# Complete the reverseArray function below.
 def reverseArray(a):
     size = len(a)
     part1=[]
@@ -20,6 +26,17 @@ def reverseArray(a):
       part2=part2[::-1]
       part2.extend(part1)
     return part2
+    
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
-a=reverseArray([1,2,3,4])
-print(a)
+    arr_count = int(input())
+
+    arr = list(map(int, input().rstrip().split()))
+
+    res = reverseArray(arr)
+
+    fptr.write(' '.join(map(str, res)))
+    fptr.write('\n')
+
+    fptr.close()
