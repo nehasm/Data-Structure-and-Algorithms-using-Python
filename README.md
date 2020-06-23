@@ -21,5 +21,123 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
     <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
     <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
   </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/dynamic-array/problem">Dynamic Array</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/DynamicArray.py">Dynamic Array</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/array-left-rotation/problem">Left Rotation</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/leftrotation.py">Left Rotation</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/sparse-arrays/problem">Sparse Arrays</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">Sparse Arrays</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/crush/problem">Array Manipulation</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/ArrayManipulation.py">Array Manipulation</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>  <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>  <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>
+    <tr>
+    <td>Array</td>
+    <td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
+  </tr>
 </table>
 
