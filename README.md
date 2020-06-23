@@ -13,13 +13,13 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   </tr>
   <tr>
     <td>Array</td>
-    <td>[Arrays-2D]('https://www.hackerrank.com/challenges/arrays-ds/problem')</td>
-    <td>[Array-2D]('https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/reverse.py')</td>
+    <td><a href="https://www.hackerrank.com/challenges/arrays-ds/problem">Arrays-2D</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/reverse.py">Arrays-2D</a></td>
   </tr>
   <tr>
     <td>Array</td>
-    <td>[2D Array-DS]('https://www.hackerrank.com/challenges/2d-array/problem')</td>
-    <td>[2D Array-DS]('https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py')</td>
+    <td><a href="'https://www.hackerrank.com/challenges/2d-array/problem'">2D Array-DS</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/hourglass.py">2D Array-DS</a></td>
   </tr>
 </table>
 
