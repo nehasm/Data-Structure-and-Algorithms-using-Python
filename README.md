@@ -42,7 +42,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
     <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Array/ArrayManipulation.py">Array Manipulation</a></td>
   </tr>
     <tr>
-    <td>Linked List</td>
+    <td>Linked Lists</td>
     <td><a href="https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem">Print the Elements of a Linked List</a></td>
     <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/PrinttheElementofLL.py">Print the Elements of a Linked List</a></td>
   </tr>
@@ -66,71 +66,107 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   </tr>    </tr>
     <tr>
     <td>Linked Lists</td>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem">Delete a Node
+
+</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/DeleteaNode.py">Delete a Node
+
+</a></td>
   </tr>
       </tr>
     <tr>
     <td>Linked Lists</td>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem">Print in Reverse
+
+</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/PrintinReverse.py">Print in Reverse
+
+</a></td>
   </tr>
       </tr>
     <tr>
     <td>Linked Lists</td>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://www.hackerrank.com/challenges/reverse-a-linked-list/problem">Reverse a linked list</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/ReverseLL.py">Reverse a linked list</a></td>
   </tr>    </tr>
     <tr>
     <td>Linked Lists</td>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://www.hackerrank.com/challenges/compare-two-linked-lists/problem">Compare two linked lists
+
+</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/ComparetwoLL.py">Compare two linked lists
+
+</a></td>
   </tr>
       </tr>
     <tr>
     <td>Linked Lists</td>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem">Merge two sorted linked lists
+
+</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/MergetwosortedLL.py">Merge two sorted linked lists
+
+</a></td>
   </tr>    </tr>
     <tr>
     <td>Linked Lists</td>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem">Get Node Value
+
+</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/GetNodeValue.py">Get Node Value
+
+</a></td>
   </tr>    </tr>
     <tr>
     <td>Linked Lists</td>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem">Delete duplicate-value nodes from a sorted linked list
+
+</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/DeleteDuplicatenodefromSortedLL.py">Delete duplicate-value nodes from a sorted linked list
+
+</a></td>
   </tr>
       </tr>
     <tr>
     <td>Linked Lists</td>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem">Cycle Detection
+
+</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/CycleDetection.py">Cycle Detection
+
+</a></td>
   </tr>
       </tr>
     <tr>
     <td>Linked Lists</td>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem">Find Merge Point of Two Lists
+
+</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/FindMergePointofTwoL.py">Find Merge Point of Two Lists
+
+</a></td>
   </tr>
       </tr>
     <tr>
     <td>Linked Lists</td>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem">Inserting a Node Into a Sorted Doubly Linked List
+
+</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/InsertNodeintosortedDLL.py">Inserting a Node Into a Sorted Doubly Linked List
+
+</a></td>
   </tr>
       </tr>
     <tr>
     <td>Linked Lists</td>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem">Reverse a doubly linked list
+
+</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/ReverseDLL.py">Reverse a doubly linked list
+
+</a></td>
   </tr>
       </tr>
-    <tr>
-    <td>Linked Lists</td>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-  </tr>
+
 </table>
 
