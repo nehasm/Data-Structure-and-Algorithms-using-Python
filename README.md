@@ -46,24 +46,21 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
     <td><a href="https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem">Print the Elements of a Linked List</a></td>
     <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/PrinttheElementofLL.py">Print the Elements of a Linked List</a></td>
   </tr>
-    </tr>
     <tr>
     <td>Linked Lists</td>
     <td><a href="https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem">Insert a Node at the Tail of a Linked List</a></td>
     <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/InsertNodeatTailofLL.py">Insert a Node at the Tail of a Linked List</a></td>
   </tr>
-      </tr>
     <tr>
     <td>Linked Lists</td>
     <td><a href="https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem">Insert a node at the head of a linked list</a></td>
     <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/InsertNodeatHeadofLL.py">Insert a node at the head of a linked list</a></td>
   </tr>
-      </tr>
     <tr>
     <td>Linked Lists</td>
     <td><a href="https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem">Insert a node at a specific position in a linked list</a></td>
     <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/InsertNodeatPositionofLL.py">Insert a node at a specific position in a linked list</a></td>
-  </tr>    </tr>
+  </tr>  
     <tr>
     <td>Linked Lists</td>
     <td><a href="https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem">Delete a Node
@@ -73,7 +70,6 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
 
 </a></td>
   </tr>
-      </tr>
     <tr>
     <td>Linked Lists</td>
     <td><a href="https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem">Print in Reverse
@@ -83,12 +79,11 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
 
 </a></td>
   </tr>
-      </tr>
     <tr>
     <td>Linked Lists</td>
     <td><a href="https://www.hackerrank.com/challenges/reverse-a-linked-list/problem">Reverse a linked list</a></td>
     <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/ReverseLL.py">Reverse a linked list</a></td>
-  </tr>    </tr>
+  </tr>  
     <tr>
     <td>Linked Lists</td>
     <td><a href="https://www.hackerrank.com/challenges/compare-two-linked-lists/problem">Compare two linked lists
@@ -98,7 +93,6 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
 
 </a></td>
   </tr>
-      </tr>
     <tr>
     <td>Linked Lists</td>
     <td><a href="https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem">Merge two sorted linked lists
@@ -107,7 +101,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
     <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/MergetwosortedLL.py">Merge two sorted linked lists
 
 </a></td>
-  </tr>    </tr>
+  </tr>  
     <tr>
     <td>Linked Lists</td>
     <td><a href="https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem">Get Node Value
@@ -116,7 +110,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
     <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/GetNodeValue.py">Get Node Value
 
 </a></td>
-  </tr>    </tr>
+  </tr>  
     <tr>
     <td>Linked Lists</td>
     <td><a href="https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem">Delete duplicate-value nodes from a sorted linked list
@@ -126,7 +120,6 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
 
 </a></td>
   </tr>
-      </tr>
     <tr>
     <td>Linked Lists</td>
     <td><a href="https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem">Cycle Detection
@@ -136,7 +129,6 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
 
 </a></td>
   </tr>
-      </tr>
     <tr>
     <td>Linked Lists</td>
     <td><a href="https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem">Find Merge Point of Two Lists
@@ -146,7 +138,6 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
 
 </a></td>
   </tr>
-      </tr>
     <tr>
     <td>Linked Lists</td>
     <td><a href="https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem">Inserting a Node Into a Sorted Doubly Linked List
@@ -156,7 +147,6 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
 
 </a></td>
   </tr>
-      </tr>
     <tr>
     <td>Linked Lists</td>
     <td><a href="https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem">Reverse a doubly linked list
@@ -166,7 +156,5 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
 
 </a></td>
   </tr>
-      </tr>
-
 </table>
 
