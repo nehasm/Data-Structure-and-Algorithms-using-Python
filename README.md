@@ -386,6 +386,15 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
 
 </a></td>
   </tr>
+           <tr>
+  <td>Heap</td>
+  <td><a href="https://www.hackerrank.com/challenges/jesse-and-cookies/problem">Jesse and Cookies
+
+</a></td>
+  <td><a href="">Jesse and Cookies
+
+</a></td>
+  </tr>
          <tr>
   <td>Heap</td>
   <td><a href="https://www.hackerrank.com/challenges/find-the-running-median/problem">Find the Running Median
