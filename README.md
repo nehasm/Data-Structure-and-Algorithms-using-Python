@@ -156,6 +156,15 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
 
 </a></td>
   </tr>
+      <tr>
+    <td>Linked Lists</td>
+    <td><a href="https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem">Reverse a doubly linked list
+
+</a></td>
+    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/ReverseDLL.py">Reverse a doubly linked list
+
+</a></td>
+  </tr>
   <tr>
   <td>Trees</td>
   <td><a href="https://www.hackerrank.com/challenges/tree-preorder-traversal/problem">Tree: Preorder Traversal
