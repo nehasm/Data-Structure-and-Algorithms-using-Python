@@ -301,5 +301,110 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="">Median Updates
 </a></td>
   </tr>
+   <tr>
+  <td>Stacks</td>
+  <td><a href="https://www.hackerrank.com/challenges/maximum-element/problem">Maximum Element
+
+</a></td>
+  <td><a href="">Maximum Element
+
+</a></td>
+  </tr>
+     <tr>
+  <td>Stacks</td>
+  <td><a href="https://www.hackerrank.com/challenges/balanced-brackets/problem">Balanced Brackets
+
+</a></td>
+  <td><a href="">Balanced Brackets
+
+</a></td>
+  </tr>
+     <tr>
+  <td>Stacks</td>
+  <td><a href="https://www.hackerrank.com/challenges/equal-stacks/problem">Equal Stacks
+
+</a></td>
+  <td><a href="">Equal Stacks
+
+</a></td>
+  </tr>   <tr>
+  <td>Stacks</td>
+  <td><a href="https://www.hackerrank.com/challenges/game-of-two-stacks/problem">Game of Two Stacks</a></td>
+  <td><a href="">Game of Two Stacks</a></td>
+  </tr>
+     <tr>
+  <td>Stacks</td>
+  <td><a href="https://www.hackerrank.com/challenges/largest-rectangle/problem">Largest Rectangle
+
+</a></td>
+  <td><a href="">Largest Rectangle
+
+</a></td>
+  </tr>
+     <tr>
+  <td>Stacks</td>
+  <td><a href="https://www.hackerrank.com/challenges/simple-text-editor/problem">Simple Text Editor
+
+</a></td>
+  <td><a href="">Simple Text Editor
+
+</a></td>
+  </tr>   <tr>
+  <td>Queues</td>
+  <td><a href="https://www.hackerrank.com/challenges/queue-using-two-stacks/problem">Queue using Two Stacks
+
+</a></td>
+  <td><a href="">Queue using Two Stacks
+
+</a></td>
+  </tr>
+     <tr>
+  <td>Queues</td>
+  <td><a href="https://www.hackerrank.com/challenges/castle-on-the-grid/problem">Castle on the Grid</a></td>
+  <td><a href="">Castle on the Grid</a></td>
+  </tr>
+       <tr>
+  <td>Queues</td>
+  <td><a href="https://www.hackerrank.com/challenges/truck-tour/problem">Truck Tour
+
+</a></td>
+  <td><a href="">Truck Tour
+
+</a></td>
+  </tr>
+       <tr>
+  <td>Queues</td>
+  <td><a href="https://www.hackerrank.com/challenges/queries-with-fixed-length/problem">Queries with Fixed Length</a></td>
+  <td><a href="">Queries with Fixed Length</a></td>
+  </tr>
+       <tr>
+  <td>Heap</td>
+  <td><a href="https://www.hackerrank.com/challenges/qheap1/problem">QHEAP1
+
+</a></td>
+  <td><a href="">QHEAP1
+
+</a></td>
+  </tr>
+         <tr>
+  <td>Heap</td>
+  <td><a href="https://www.hackerrank.com/challenges/find-the-running-median/problem">Find the Running Median
+
+
+</a></td>
+  <td><a href="">Find the Running Median
+
+
+</a></td>
+  </tr>
+         <tr>
+  <td>Heap</td>
+  <td><a href="https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem">Minimum Average Waiting Time
+
+</a></td>
+  <td><a href="">Minimum Average Waiting Time
+
+</a></td>
+  </tr>
 </table>
 
