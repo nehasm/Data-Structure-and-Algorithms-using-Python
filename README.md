@@ -156,21 +156,12 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
 
 </a></td>
   </tr>
-      <tr>
-    <td>Linked Lists</td>
-    <td><a href="https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem">Reverse a doubly linked list
-
-</a></td>
-    <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/LinkedList/ReverseDLL.py">Reverse a doubly linked list
-
-</a></td>
-  </tr>
   <tr>
   <td>Trees</td>
   <td><a href="https://www.hackerrank.com/challenges/tree-preorder-traversal/problem">Tree: Preorder Traversal
 
 </a></td>
-  <td><a href=">Tree: Preorder Traversal
+  <td><a href="">Tree: Preorder Traversal
 
 </a></td>
   </tr>
@@ -179,7 +170,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/tree-postorder-traversal/problem">Tree: Postorder Traversal
 
 </a></td>
-  <td><a href=">Tree: Postorder Traversal
+  <td><a href="">Tree: Postorder Traversal
 
 </a></td>
   </tr>  <tr>
@@ -187,7 +178,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/tree-inorder-traversal/problem">Tree: Inorder Traversal
 
 </a></td>
-  <td><a href=">Tree: Inorder Traversal
+  <td><a href="">Tree: Inorder Traversal
 
 </a></td>
   </tr>
@@ -196,20 +187,20 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem">Tree: Height of a Binary Tree
 
 </a></td>
-  <td><a href=">Tree: Height of a Binary Tree
+  <td><a href="">Tree: Height of a Binary Tree
 
 </a></td>
   </tr>  <tr>
   <td>Trees</td>
   <td><a href="https://www.hackerrank.com/challenges/tree-top-view/problem">Tree : Top View</a></td>
-  <td><a href=">Tree : Top View</a></td>
+  <td><a href="">Tree : Top View</a></td>
   </tr>
     <tr>
   <td>Trees</td>
   <td><a href="https://www.hackerrank.com/challenges/tree-level-order-traversal/problem">Tree: Level Order Traversal
 
 </a></td>
-  <td><a href=">Tree: Level Order Traversal
+  <td><a href="">Tree: Level Order Traversal
 
 </a></td>
   </tr> 
@@ -218,7 +209,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem">Binary Search Tree : Insertion
 
 </a></td>
-  <td><a href=">Binary Search Tree : Insertion
+  <td><a href="">Binary Search Tree : Insertion
 
 </a></td>
   </tr> 
@@ -227,7 +218,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/tree-huffman-decoding/problem">Tree: Huffman Decoding
 
 </a></td>
-  <td><a href=">Tree: Huffman Decoding
+  <td><a href="">Tree: Huffman Decoding
 
 </a></td>
   </tr> 
@@ -236,7 +227,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem">Binary Search Tree : Lowest Common Ancestor
 
 </a></td>
-  <td><a href=">Binary Search Tree : Lowest Common Ancestor
+  <td><a href="">Binary Search Tree : Lowest Common Ancestor
 
 </a></td>
   </tr> 
@@ -245,7 +236,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/swap-nodes-algo/problem">Swap Nodes [Algo]
 
 </a></td>
-  <td><a href=">Swap Nodes [Algo]
+  <td><a href="">Swap Nodes [Algo]
 
 </a></td>
   </tr>  
@@ -254,7 +245,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem">Kitty's Calculations on a Tree
 
 </a></td>
-  <td><a href=">Kitty's Calculations on a Tree
+  <td><a href="">Kitty's Calculations on a Tree
 
 </a></td>
   </tr>  
@@ -263,7 +254,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/is-binary-search-tree/problem">Is This a Binary Search Tree?
 
 </a></td>
-  <td><a href=">Is This a Binary Search Tree?
+  <td><a href="">Is This a Binary Search Tree?
 
 </a></td>
   </tr> 
@@ -272,7 +263,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/square-ten-tree/problem">Square-Ten Tree
 
 </a></td>
-  <td><a href=">Square-Ten Tree
+  <td><a href="">Square-Ten Tree
 
 </a></td>
   </tr>
@@ -281,7 +272,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/balanced-forest/problem">Balanced Forest
 
 </a></td>
-  <td><a href=">Balanced Forest
+  <td><a href="">Balanced Forest
 
 </a></td>
   </tr> 
@@ -290,7 +281,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/jenny-subtrees/problem">Jenny's Subtrees
 
 </a></td>
-  <td><a href=">Jenny's Subtrees
+  <td><a href="">Jenny's Subtrees
 
 </a></td>
   </tr>
