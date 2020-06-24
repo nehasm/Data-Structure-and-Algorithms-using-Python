@@ -285,5 +285,21 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
 
 </a></td>
   </tr>
+    <tr>
+  <td>Balanced Trees</td>
+  <td><a href="https://www.hackerrank.com/challenges/array-and-simple-queries/problem">Array and simple queries
+
+</a></td>
+  <td><a href="">Array and simple queries
+
+</a></td>
+  </tr>
+    <tr>
+  <td>Balanced Trees</td>
+  <td><a href="https://www.hackerrank.com/challenges/median/problem">Median Updates
+</a></td>
+  <td><a href="">Median Updates
+</a></td>
+  </tr>
 </table>
 
