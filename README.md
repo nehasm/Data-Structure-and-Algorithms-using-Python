@@ -354,28 +354,28 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/queue-using-two-stacks/problem">Queue using Two Stacks
 
 </a></td>
-  <td><a href="">Queue using Two Stacks
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Queue/Queueusingtwostack.py">Queue using Two Stacks
 
 </a></td>
   </tr>
      <tr>
   <td>Queues</td>
   <td><a href="https://www.hackerrank.com/challenges/castle-on-the-grid/problem">Castle on the Grid</a></td>
-  <td><a href="">Castle on the Grid</a></td>
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Queue/CastleontheGrid.py">Castle on the Grid</a></td>
   </tr>
        <tr>
   <td>Queues</td>
   <td><a href="https://www.hackerrank.com/challenges/truck-tour/problem">Truck Tour
 
 </a></td>
-  <td><a href="">Truck Tour
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Queue/TruckTour.py">Truck Tour
 
 </a></td>
   </tr>
        <tr>
   <td>Queues</td>
   <td><a href="https://www.hackerrank.com/challenges/queries-with-fixed-length/problem">Queries with Fixed Length</a></td>
-  <td><a href="">Queries with Fixed Length</a></td>
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Queue/QuerieswithFixedLength.py">Queries with Fixed Length</a></td>
   </tr>
        <tr>
   <td>Heap</td>
