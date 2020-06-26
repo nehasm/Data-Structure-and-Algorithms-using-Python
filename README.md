@@ -306,7 +306,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/maximum-element/problem">Maximum Element
 
 </a></td>
-  <td><a href="">Maximum Element
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Stack/MaximumElement.py">Maximum Element
 
 </a></td>
   </tr>
@@ -315,7 +315,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/balanced-brackets/problem">Balanced Brackets
 
 </a></td>
-  <td><a href="">Balanced Brackets
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Stack/BalancedBrackets.py">Balanced Brackets
 
 </a></td>
   </tr>
@@ -324,20 +324,20 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/equal-stacks/problem">Equal Stacks
 
 </a></td>
-  <td><a href="">Equal Stacks
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Stack/EqualStacks.py">Equal Stacks
 
 </a></td>
   </tr>   <tr>
   <td>Stacks</td>
   <td><a href="https://www.hackerrank.com/challenges/game-of-two-stacks/problem">Game of Two Stacks</a></td>
-  <td><a href="">Game of Two Stacks</a></td>
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Stack/GameofTwoStacks.py">Game of Two Stacks</a></td>
   </tr>
      <tr>
   <td>Stacks</td>
   <td><a href="https://www.hackerrank.com/challenges/largest-rectangle/problem">Largest Rectangle
 
 </a></td>
-  <td><a href="">Largest Rectangle
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Stack/LargestRectangle.py">Largest Rectangle
 
 </a></td>
   </tr>
@@ -346,7 +346,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/simple-text-editor/problem">Simple Text Editor
 
 </a></td>
-  <td><a href="">Simple Text Editor
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Stack/SimpleTextEditor.py">Simple Text Editor
 
 </a></td>
   </tr>   <tr>
