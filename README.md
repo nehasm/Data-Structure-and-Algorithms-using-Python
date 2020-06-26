@@ -382,7 +382,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/qheap1/problem">QHEAP1
 
 </a></td>
-  <td><a href="">QHEAP1
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Heap/QHeap1.py">QHEAP1
 
 </a></td>
   </tr>
@@ -391,7 +391,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/jesse-and-cookies/problem">Jesse and Cookies
 
 </a></td>
-  <td><a href="">Jesse and Cookies
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Heap/JesseandCookies.py">Jesse and Cookies
 
 </a></td>
   </tr>
@@ -401,7 +401,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
 
 
 </a></td>
-  <td><a href="">Find the Running Median
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Heap/FindtheRunningMedian.py">Find the Running Median
 
 
 </a></td>
@@ -411,7 +411,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem">Minimum Average Waiting Time
 
 </a></td>
-  <td><a href="">Minimum Average Waiting Time
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Heap/MinimumAverageWaitingTime.py">Minimum Average Waiting Time
 
 </a></td>
   </tr>
