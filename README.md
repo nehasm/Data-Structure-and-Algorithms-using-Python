@@ -170,7 +170,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/tree-postorder-traversal/problem">Tree: Postorder Traversal
 
 </a></td>
-  <td><a href="">Tree: Postorder Traversal
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Tree/TreePostorderTraversal.py">Tree: Postorder Traversal
 
 </a></td>
   </tr>  <tr>
@@ -178,7 +178,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/tree-inorder-traversal/problem">Tree: Inorder Traversal
 
 </a></td>
-  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Tree/TreePostorderTraversal.py">Tree: Inorder Traversal
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Tree/TreeInorderTraversal.py">Tree: Inorder Traversal
 
 </a></td>
   </tr>
@@ -193,14 +193,14 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   </tr>  <tr>
   <td>Trees</td>
   <td><a href="https://www.hackerrank.com/challenges/tree-top-view/problem">Tree : Top View</a></td>
-  <td><a href="">Tree : Top View</a></td>
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Tree/TreeTopView.py">Tree : Top View</a></td>
   </tr>
     <tr>
   <td>Trees</td>
   <td><a href="https://www.hackerrank.com/challenges/tree-level-order-traversal/problem">Tree: Level Order Traversal
 
 </a></td>
-  <td><a href="">Tree: Level Order Traversal
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Tree/TreeLevelOrderTraversal.py">Tree: Level Order Traversal
 
 </a></td>
   </tr> 
@@ -209,7 +209,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem">Binary Search Tree : Insertion
 
 </a></td>
-  <td><a href="">Binary Search Tree : Insertion
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Tree/BSTInsertion.py">Binary Search Tree : Insertion
 
 </a></td>
   </tr> 
@@ -218,7 +218,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/tree-huffman-decoding/problem">Tree: Huffman Decoding
 
 </a></td>
-  <td><a href="">Tree: Huffman Decoding
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Tree/TreeHuffmanCoding.py">Tree: Huffman Decoding
 
 </a></td>
   </tr> 
@@ -227,7 +227,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem">Binary Search Tree : Lowest Common Ancestor
 
 </a></td>
-  <td><a href="">Binary Search Tree : Lowest Common Ancestor
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Tree/BSTLowercommonancester.py">Binary Search Tree : Lowest Common Ancestor
 
 </a></td>
   </tr> 
@@ -236,7 +236,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/swap-nodes-algo/problem">Swap Nodes [Algo]
 
 </a></td>
-  <td><a href="">Swap Nodes [Algo]
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Tree/SwapNodeAlgo.py">Swap Nodes [Algo]
 
 </a></td>
   </tr>  
@@ -245,7 +245,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem">Kitty's Calculations on a Tree
 
 </a></td>
-  <td><a href="">Kitty's Calculations on a Tree
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Tree/KittyCalculationonaTree.py">Kitty's Calculations on a Tree
 
 </a></td>
   </tr>  
@@ -254,7 +254,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/is-binary-search-tree/problem">Is This a Binary Search Tree?
 
 </a></td>
-  <td><a href="">Is This a Binary Search Tree?
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Tree/IsthisBinarySearchTree.py">Is This a Binary Search Tree?
 
 </a></td>
   </tr> 
@@ -263,7 +263,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/square-ten-tree/problem">Square-Ten Tree
 
 </a></td>
-  <td><a href="">Square-Ten Tree
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Tree/Squaretentree.py">Square-Ten Tree
 
 </a></td>
   </tr>
@@ -272,7 +272,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/balanced-forest/problem">Balanced Forest
 
 </a></td>
-  <td><a href="">Balanced Forest
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Tree/BalancedForest.py">Balanced Forest
 
 </a></td>
   </tr> 
@@ -281,7 +281,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/jenny-subtrees/problem">Jenny's Subtrees
 
 </a></td>
-  <td><a href="">Jenny's Subtrees
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Tree/JennySubtree.py">Jenny's Subtrees
 
 </a></td>
   </tr>
@@ -290,7 +290,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/array-and-simple-queries/problem">Array and simple queries
 
 </a></td>
-  <td><a href="">Array and simple queries
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Tree/ArrayandSimpleQueries.py">Array and simple queries
 
 </a></td>
   </tr>
@@ -298,7 +298,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td>Balanced Trees</td>
   <td><a href="https://www.hackerrank.com/challenges/median/problem">Median Updates
 </a></td>
-  <td><a href="">Median Updates
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Tree/MedianUpdates.py">Median Updates
 </a></td>
   </tr>
    <tr>
