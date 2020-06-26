@@ -161,7 +161,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/tree-preorder-traversal/problem">Tree: Preorder Traversal
 
 </a></td>
-  <td><a href="">Tree: Preorder Traversal
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Tree/TreePreorderTraversal.py">Tree: Preorder Traversal
 
 </a></td>
   </tr>
@@ -178,7 +178,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/tree-inorder-traversal/problem">Tree: Inorder Traversal
 
 </a></td>
-  <td><a href="">Tree: Inorder Traversal
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Tree/TreePostorderTraversal.py">Tree: Inorder Traversal
 
 </a></td>
   </tr>
@@ -187,7 +187,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem">Tree: Height of a Binary Tree
 
 </a></td>
-  <td><a href="">Tree: Height of a Binary Tree
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Tree/HeightofBT.py">Tree: Height of a Binary Tree
 
 </a></td>
   </tr>  <tr>
