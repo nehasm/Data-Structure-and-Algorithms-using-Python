@@ -6,7 +6,7 @@ The problem solving code cover the hackerrank questions or hackerrank series of 
 Here,you will get the easy solution to learn the problem solving skill using python.</p>
 <br>
 <h2>Data Structure</h2>
-<table style="width:100%; color:red">
+<table style="width:100%;  align:center;">
   <tr>
     <th>Subdomain</th>
     <th>Challenge</th>
