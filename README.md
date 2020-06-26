@@ -1,4 +1,4 @@
-<h1 style="color:red;">Data-Structure-and-Algorithms-using-Python</h1>
+<h1 style="color:blue;">Data-Structure-and-Algorithms-using-Python</h1>
 
 <p>This repository is dedicated for data structures and algorithms using python.
 Each folder of data structure has its implemenatation in python and also the problem solving code through that data structure.<br>
