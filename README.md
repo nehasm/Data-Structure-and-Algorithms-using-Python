@@ -439,5 +439,28 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
 
 </a></td>
   </tr>
+  <tr>
+  <td>Multiple Choice</td>
+  <td><a href="https://www.hackerrank.com/challenges/how-well-do-you-know-trees/problem">Data Structures MCQ 1
+
+</a></td>
+  <td><a href="">Data Structures MCQ 1
+
+</a></td>
+  </tr>
+      <tr>
+  <td>Multiple Choice</td>
+  <td><a href="https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures/problem">Data Structures MCQ 2</a></td>
+  <td><a href="">Data Structures MCQ 2</a></td>
+  </tr>
+    <tr>
+  <td>Multiple Choice</td>
+  <td><a href="https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1/problem">Data Structures MCQ 3
+
+</a></td>
+  <td><a href="">Data Structures MCQ 3
+
+</a></td>
+  </tr>
 </table>
 
