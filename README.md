@@ -421,21 +421,21 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/merging-communities/problem">Merging Communities
 
 </a></td>
-  <td><a href="">Merging Communities
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/DisjointSets/MergingCommunities.py">Merging Communities
 
 </a></td>
   </tr>
     <tr>
   <td>Disjoint Set</td>
   <td><a href="https://www.hackerrank.com/challenges/components-in-graph/problem">Components in a graph</a></td>
-  <td><a href="">Components in a graph</a></td>
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/DisjointSets/Componentsinagraph.py">Components in a graph</a></td>
   </tr>
     <tr>
   <td>Disjoint Set</td>
   <td><a href="https://www.hackerrank.com/challenges/kundu-and-tree/problem">Kundu and Tree
 
 </a></td>
-  <td><a href="">Kundu and Tree
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/DisjointSets/KunduandTree.py">Kundu and Tree
 
 </a></td>
   </tr>
