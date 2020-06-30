@@ -1,4 +1,4 @@
-#reverse list from middle and swapping to parts
+#reverse list from middle and swapping to part
 def reverseArray(a):
     size = len(a)
     part1=[]
