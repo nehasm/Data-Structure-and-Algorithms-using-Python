@@ -467,7 +467,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/contacts/problem">Contacts
 
 </a></td>
-  <td><a href="">Contacts
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Trie/Contacts.py">Contacts
 
 </a></td>
   </tr>
@@ -476,7 +476,7 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   <td><a href="https://www.hackerrank.com/challenges/no-prefix-set/problem">No Prefix Set
 
 </a></td>
-  <td><a href="">No Prefix Set
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Trie/NoPrefixSet.py">No Prefix Set
 
 </a></td>
   </tr>
