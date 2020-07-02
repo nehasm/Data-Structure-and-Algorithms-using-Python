@@ -13,4 +13,3 @@ for line in sys.stdin.readlines():
             trie[key] += 1
     elif opr == 'find':
         print(trie[value])
-
