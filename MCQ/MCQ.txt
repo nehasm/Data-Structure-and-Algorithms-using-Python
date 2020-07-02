@@ -1,12 +1,12 @@
 Data Structures MCQ 1
 If we have a tree of n nodes, how many edges will it have?
+
 1
 (n*(n-1))/2
 (n*(n-1))
 n-1
 
-Answer:n-1
-
+-->Answer:n-1
 
 
 
@@ -18,14 +18,11 @@ Stack
 Segment Tree
 Queue
 
-Answer:Segment Tree
-
-
+-->Answer:Segment Tree
 
 
 Data Structures MCQ 3
 Of the following data structures, which has a Last in First Out ordering? In other words, the one that
-
 came in last will be the first to be popped.
 
 Queue
@@ -33,4 +30,4 @@ Stack
 Vector
 Array List
 
-Answer:Stack
+-->Answer:Stack
