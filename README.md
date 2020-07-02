@@ -462,5 +462,23 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
 
 </a></td>
   </tr>
+  <tr>
+  <td>Trie</td>
+  <td><a href="https://www.hackerrank.com/challenges/contacts/problem">Contacts
+
+</a></td>
+  <td><a href="">Contacts
+
+</a></td>
+  </tr>
+    <tr>
+  <td>Trie</td>
+  <td><a href="https://www.hackerrank.com/challenges/no-prefix-set/problem">No Prefix Set
+
+</a></td>
+  <td><a href="">No Prefix Set
+
+</a></td>
+  </tr>
 </table>
 
