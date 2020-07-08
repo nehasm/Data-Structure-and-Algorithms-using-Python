@@ -482,12 +482,12 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   </tr>
   <tr>
   <td>Advanced</td>
-  <td><a href="">Kindergarten Adventures</a></td>
+  <td><a href="https://www.hackerrank.com/challenges/kindergarten-adventures/problem">Kindergarten Adventures</a></td>
   <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Advanced/KindergartenAdventures.py">Kindergarten Adventures</a></td>
   </tr>
    <tr>
   <td>Advanced</td>
-  <td><a href="">Cube Summation</a></td>
+  <td><a href="https://www.hackerrank.com/challenges/cube-summation/problem">Cube Summation</a></td>
   <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Advanced/CubeSummation.py">Cube Summation</a></td>
   </tr>
 </table>
