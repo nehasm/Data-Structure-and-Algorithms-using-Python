@@ -480,5 +480,15 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
 
 </a></td>
   </tr>
+  <tr>
+  <td>Advanced</td>
+  <td><a href=""></a></td>
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Advanced/KindergartenAdventures.py"></a></td>
+  </tr>
+   <tr>
+  <td>Advanced</td>
+  <td><a href=""></a></td>
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Advanced/CubeSummation.py"></a></td>
+  </tr>
 </table>
 
