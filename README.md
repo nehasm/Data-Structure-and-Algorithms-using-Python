@@ -492,8 +492,8 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
   </tr>
     <tr>
   <td>Advanced</td>
-  <td><a href="https://www.hackerrank.com/challenges/cube-summation/problem">Cube Summation</a></td>
-  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Advanced/Mr.XandHisShots.py">Cube Summation</a></td>
+  <td><a href="https://www.hackerrank.com/challenges/x-and-his-shots/problem">Mr. X and His Shots</a></td>
+  <td><a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/Advanced/Mr.XandHisShots.py">Mr. X and His Shots</a></td>
   </tr>
 </table>
 
