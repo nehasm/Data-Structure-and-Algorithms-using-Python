@@ -1,4 +1,4 @@
-#Min Heap
+# Min Heap Implementation
 class BMin_Heap(object):
     def __init__(self):
         self.heap = [0]
