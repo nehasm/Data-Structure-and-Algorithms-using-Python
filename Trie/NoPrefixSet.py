@@ -23,4 +23,5 @@ for line in stdin:
         print("BAD SET")
         print(line)
         sys.exit()
+        
 print("GOOD SET")
