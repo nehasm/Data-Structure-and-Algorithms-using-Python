@@ -1,4 +1,5 @@
 '''
+
 Python doesn’t have explicit array data structure.
 It’s because we can do the same things with the List.
 The list contains a collection of items and it supports add/update/delete/search operations.
@@ -8,6 +9,7 @@ This is the only feature wise difference between an array and a list.
 In Python you can use list for all the operation involve array.
 However you can create array with programming tricks and also by using a module name array.
 We will see how to generate array with programming tricks as well as using built in module array.
+
 '''
 
 #Array implementation using programming tricks
