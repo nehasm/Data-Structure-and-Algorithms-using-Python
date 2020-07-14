@@ -43,6 +43,7 @@ if __name__=="__main__":
     myqueue.insertFront(3)
     myqueue.insertRear(4)
     myqueue.insertRear(5)
+    print(myqueue)
     myqueue.insertRear(6)
     print(myqueue)
     myqueue.deleteFront()
