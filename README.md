@@ -498,6 +498,6 @@ Here,you will get the easy solution to learn the problem solving skill using pyt
 </table>
 
 
-<h2> Hackfest Challenge </h2>
+<h2> <strong>Hackfest 2020 Challenge</strong> </h2>
 <h4> Game of Maximization </h4>
 <a href="https://github.com/nehasm/Data-Structure-and-Algorithms-using-Python/blob/master/competition/Game-of-Maximization.py"> Solution </a>
